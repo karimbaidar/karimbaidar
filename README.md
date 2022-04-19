@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @karimbaidar
 - 👀 I’m interested in Java, PHP, Python, Git, CI/CD, DevOPS, Agile and SCRUM
 - 🌱 I’m currently working on AI, Mobile and web app projects
-- 📫 How to reach me: karimbaidar@gmail.com
+- 📫 Reach me at: karimbaidar@gmail.com
 - Note: I didn't upload all the repos related to my work here as they are part of my different organizations, for which I worked. 
 
 <!---
